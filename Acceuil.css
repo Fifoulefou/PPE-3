@@ -1,0 +1,78 @@
+# PPE-3body{
+    background-image: url(Sans\ titre.png);
+}
+h1{
+    font-family: ' Goudy Old Style, Garamond, Big Caslon, Times New Roman, serif';
+    text-align: center;
+    color: rgb(254, 254, 255);
+}
+
+body{
+    color: rgb(255, 255, 255);
+}
+
+.ligne_verticale
+{
+    width:5px;
+    border-left:5px solid rgb(255, 255, 255);
+    height:700px;
+     object-position: center;
+     margin-left: 950px;
+    position:absolute;
+    top: 16%;
+}
+
+#RH{
+    font-family: 'Copperplate, Copperplate Gothic Light, fantasy';
+    font-size: 30px;
+    position: absolute;
+    left: 70%;
+    top: 10%;
+
+}
+
+#SC{
+    font-family: 'Copperplate, Copperplate Gothic Light, fantasy';
+    font-size: 30px;
+    position: absolute;
+    right: 70%;
+    top: 10%;
+}
+
+#B1{
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    background-color: #004df3;
+    border: 1px solid #004df3;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 30px;
+    box-shadow: 0 0 20px 0 rgb(62, 65, 233), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+
+#B2{
+    position: absolute;
+    top: 50%;
+    right: 15%;
+    background-color: #004df3;
+    border: 1px solid #004df3;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 30px;
+    box-shadow: 0 0 20px 0 rgb(62, 65, 233), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+
