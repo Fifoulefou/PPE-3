@@ -1,0 +1,84 @@
+# PPE-3
+body{
+    background-image:url(Sans\ titre.png);
+    color: rgb(255, 255, 255);
+}
+#container{
+    width:400px;
+    margin:0 auto;
+    margin-top:10%;
+    color:aliceblue;
+}
+/*bordure*/ 
+form {
+    width:100%;
+    padding: 30px;
+    border: 1px solid #000000;
+    background: linear-gradient(rgb(78, 78, 185), rgb(1, 3, 99));
+    box-shadow: 0 0 20px 0 rgb(17, 18, 82), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+    border-radius: 30px;
+}
+#container h1{
+    width: 38%;
+    margin: 0 auto;
+    padding-bottom: 10px;
+    color:aliceblue;
+
+}
+
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+/*Boutton*/
+input[type=submit] {
+    background-color: #199bd8;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+img{
+    width : 100px;
+    height : 60px;
+    position: absolute;
+    left: 91%;
+    top: 5%
+}
+
+#fr{
+    width : 100px;
+    height : 65px;
+    position: absolute;
+    left: 80%;
+    top: 5%
+}
+
+#containertab{
+    width:400px;
+    margin:0 ;
+    margin-top:10%;
+    color:aliceblue;
+}
+
+#containerse{
+    width:400px;
+    margin:40% ;
+    margin-top:10%;
+    color:aliceblue;
+}
+
+table{
+    position: absolute;
+    top: 30% ; 
+    left: 35%;
+
+}
